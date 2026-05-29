@@ -19,7 +19,7 @@ A GUI-based multiple choice quiz system built with Java Applets and AWT.
    OR embed in HTML with `<applet code="MCQ.class" width="1000" height="1000"></applet>`
 
 ### Screenshots
-Add a screenshot of the running applet here
+![MCQ Test Demo](demo.png)
 
 ### Future Improvements
 - Load questions from external file
